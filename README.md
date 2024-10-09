@@ -3,6 +3,9 @@
 <h1 align="center">
 Hi, i'm <𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚𝐏𝐨𝐥 />! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+	
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/catalina-pol-16bb41273/) [![Gmail Badge](https://img.shields.io/badge/-asterp04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:catalinapolbdo@gmail.com)
+	
 <br/>	
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=System+Analyst+Student;Back+End+Developer;Java%20|%20Spring Boot%20|%20MySql%&center=true&width=380&height=45">
