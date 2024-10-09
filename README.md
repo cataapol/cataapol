@@ -11,11 +11,14 @@
 	</a>
 </p>
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21evsm5rg6epn24c6knbnjhoi?si=717adebb0c75450e)
-
 <hr></hr>
 
 ### My Github Stats
 
 ![Catalina's github stats](https://github-readme-stats.vercel.app/api?username=cataapol&theme=gruvbox&show_icons=true)
+
+
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/21evsm5rg6epn24c6knbnjhoi?si=717adebb0c75450e)
+
