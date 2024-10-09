@@ -5,8 +5,9 @@ Hi, i'm <𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚𝐏𝐨𝐥 />!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 	
 [![Linkedin Badge](https://img.shields.io/badge/-CatalinaPol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/catalina-pol-16bb41273/)](https://www.linkedin.com/in/catalina-pol-16bb41273/) [![Gmail Badge](https://img.shields.io/badge/-catalinapolbdo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:catalinapolbdo@gmail.com)](mailto:catalinapolbdo@gmail.com)
-	
-<br/>	
+
+ ##   <img src="https://camo.githubusercontent.com/aed61247fb59e3b38d417a3f363e0734b5951cc3afb93948f35c4c0d2cc928d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="30" height="30"> About Me
+ 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=System+Analyst+Student;Back+End+Developer;Java%20|%20Spring Boot%20|%20MySql%&center=true&width=380&height=45">
 </p>
