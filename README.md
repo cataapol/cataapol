@@ -17,3 +17,5 @@
 <hr></hr>
 
 ### My Github Stats
+
+![Catalina's github stats](https://github-readme-stats.vercel.app/api?username=cataapol&theme=gruvbox&show_icons=true)
