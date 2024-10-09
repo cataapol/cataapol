@@ -44,9 +44,7 @@ cataapol@github
 
 
 
-<hr></hr>
 
-### 🛠 &nbsp; Tech Stack
 
 <hr></hr>
 
