@@ -14,15 +14,12 @@ Hi, i'm <𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚𝐏𝐨𝐥 />!
 ```
 cataapol@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 I am a Professional BackEnd Developer 
+📚 I have a degree in Computer Science from Digital House
+📝 I have a strong interest in Artificial Intelligence
+🌱 Learning about DevOps
+🌟 Main languages: Java (Spring)
+🎵 Love trap, rap and rock music
 ```
 <hr>
 
