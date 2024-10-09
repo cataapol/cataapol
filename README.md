@@ -31,7 +31,7 @@ cataapol@github
 
 <div align="center" height=45px>
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
+	<a href="https://github.com/cataapol">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;BackEnd+Web+Developer;|Java%20|Spring%20|MySql%20;Always%20learning%20new%20things&center=true&width=380&height=50">
 	</a>
 </p>
@@ -40,8 +40,7 @@ cataapol@github
 
 ### My Github Stats
 
-![Catalina's github stats](https://github-readme-stats.vercel.app/api?username=cataapol&theme=gruvbox&show_icons=true)
-
+![Catalina's github stats](https://github-readme-stats.vercel.app/api?username=cataapol&theme=gruvbox&show_icons=true) <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cataapol&layout=compact">
 
 
 
