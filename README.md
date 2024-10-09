@@ -5,7 +5,7 @@ Hi, i'm <𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚𝐏𝐨𝐥 />!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>	
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End+Developer;Java%20|%20Spring Boot%20|%20MySql%&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=System+Analyst+Student;Back+End+Developer;Java%20|%20Spring Boot%20|%20MySql%&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
