@@ -3,10 +3,7 @@
 <h1 align="center">
 Hi, i'm <𝐂𝐚𝐭𝐚𝐥𝐢𝐧𝐚𝐏𝐨𝐥 />! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=System+Analyst+Student;Back+End+Developer;Java%20|%20Spring Boot%20|%20MySql%&center=true&width=380&height=45"></a>
 </p>
